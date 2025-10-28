@@ -4,8 +4,6 @@ description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/0d0d6b479a54b064d0ba5f5710962b9a_qmqiF0YJ4LM.srt
 file_size: 29413
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

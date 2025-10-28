@@ -2,8 +2,6 @@
 content_type: page
 description: This section describes the Lexicon of Biochemical Reactions and includes
   4 videos.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lexicon
@@ -28,7 +26,7 @@ Professor JoAnne Stubbe introduces the Lexicon of Biochemical Reactions, which e
 
 {{% resource_link 0a3dab68-db7a-5fd5-c2ab-61860a35e2ca "Lexicon of Biochemical Reactions (PDF - 1.2MB)" %}}
 
-[Metabolic Pathways Chart](http://www.iubmb-nicholson.org/chart.html)
+{{% resource_link "f35df972-b7f7-43eb-8b9c-b6b34c8b50c0" "Metabolic Pathways Chart" %}}
 
 Redox Cofactors
 ---------------

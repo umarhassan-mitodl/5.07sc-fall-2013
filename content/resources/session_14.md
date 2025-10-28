@@ -4,8 +4,6 @@ description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/fe88602f0966d0106b6cf6462fb7cc6b_Session_14.jpg
 file_size: 2662
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

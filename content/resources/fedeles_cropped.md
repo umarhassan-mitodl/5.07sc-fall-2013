@@ -4,8 +4,6 @@ description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/9c30b0874f8bf66044797771042b3e9c_Fedeles_cropped.jpg
 file_size: 4072
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -4,8 +4,6 @@ description: ''
 file: /courses/5-07sc-biological-chemistry-i-fall-2013/926e80a2cd16e934ea3447e99e6cd2c7_classroom_2-compressor.jpg
 file_size: 13156
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
